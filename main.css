@@ -1,3 +1,7 @@
+* {
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
 div.taskbar {
     min-width: 200px;
     width: auto;
@@ -78,4 +82,8 @@ h2 {
     margin-top: 0mm;
     margin-bottom: 0mm; 
     color: #023436; 
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
 }
