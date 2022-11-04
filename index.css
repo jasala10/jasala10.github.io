@@ -1,3 +1,93 @@
+div.taskbar {
+    min-width: 200px;
+    width: auto;
+    height: 80px;
+    padding: 40px;
+    padding: 15px;
+    vertical-align:text-bottom;
+}   
+
+button {
+    height: 54px;
+    background-color: transparent;
+    border: none;
+    font-weight: bold;
+}
+
+button.home, button.about {
+    float: right;
+    font-size: medium;
+    padding-left: 20px;
+
+}
+
+button.name {
+    font-size: large;
+}   
+
+a {
+color: black;
+text-decoration: none;
+}
+
+a:hover {
+color: #03B5AA;
+}
+
+
+img {
+    float: left;
+}
+
+div.taskbar-name {
+    float: left;
+}
+
+div.lower-content {
+    padding-top: 60px;
+    padding-left: 5em;
+    padding-right: 5em;
+    height: 400px;
+}
+
+ 
+div.title {
+    padding-top: 10px;
+    padding-left: 4px;
+    margin-top: 2em;
+    margin-left: 2em; 
+    padding-bottom: 10px;
+    max-width: 450px;
+    min-width: 200px;
+    float: left;
+    align-items: center;
+
+
+}
+
+h1 {
+    font-size: 20mm;
+    margin-top: 0mm;
+    margin-bottom: 0mm;
+    color: #023436;
+    
+}
+
+h2 { 
+    font-size: 8mm;
+    margin-top: 0mm;
+    margin-bottom: 0mm; 
+    color: #023436; 
+}
+
+p {
+    /* margin-top: 0mm; */
+}
+
+
+
+
+
 /* div.title {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
